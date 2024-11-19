@@ -1,0 +1,5 @@
+/Users/tomz/git/enersys/esa-course/sample-spring-microservices/account-service/src/main/java/pl/piomin/microservices/account/config/AccountConfiguration.java
+/Users/tomz/git/enersys/esa-course/sample-spring-microservices/account-service/src/main/java/pl/piomin/microservices/account/api/Api.java
+/Users/tomz/git/enersys/esa-course/sample-spring-microservices/account-service/src/main/java/pl/piomin/microservices/account/AccountServiceApplication.java
+/Users/tomz/git/enersys/esa-course/sample-spring-microservices/account-service/src/main/java/pl/piomin/microservices/account/exceptions/AccountNotFoundException.java
+/Users/tomz/git/enersys/esa-course/sample-spring-microservices/account-service/src/main/java/pl/piomin/microservices/account/model/Account.java

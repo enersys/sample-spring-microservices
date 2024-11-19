@@ -1,0 +1,8 @@
+/Users/tomz/git/enersys/esa-course/sample-spring-microservices/customer-service/src/main/java/pl/piomin/microservices/customer/CustomerServiceApplication.java
+/Users/tomz/git/enersys/esa-course/sample-spring-microservices/customer-service/src/main/java/pl/piomin/microservices/customer/exceptions/CustomerNotFoundException.java
+/Users/tomz/git/enersys/esa-course/sample-spring-microservices/customer-service/src/main/java/pl/piomin/microservices/customer/model/Customer.java
+/Users/tomz/git/enersys/esa-course/sample-spring-microservices/customer-service/src/main/java/pl/piomin/microservices/customer/model/CustomerType.java
+/Users/tomz/git/enersys/esa-course/sample-spring-microservices/customer-service/src/main/java/pl/piomin/microservices/customer/config/CustomerConfiguration.java
+/Users/tomz/git/enersys/esa-course/sample-spring-microservices/customer-service/src/main/java/pl/piomin/microservices/customer/model/Account.java
+/Users/tomz/git/enersys/esa-course/sample-spring-microservices/customer-service/src/main/java/pl/piomin/microservices/customer/intercomm/AccountClient.java
+/Users/tomz/git/enersys/esa-course/sample-spring-microservices/customer-service/src/main/java/pl/piomin/microservices/customer/api/Api.java
